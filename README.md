@@ -2,13 +2,12 @@
 
 <img align="left" width="280" height="250" src="https://github.com/fronchetti/fronchetti/blob/main/felipe_comp.png?raw=true">
 
-# Welcome
+# Hello!
 
-My name is Felipe Fronchetti, I am a Ph.D. student in Computer Science at VCU, and this is my GitHub profile!
-In my account you will find tools and replication packages for the research papers I published. 
-Each repository is named with the initials of the conference and the year of publication (for example, <a href="https://github.com/fronchetti/OSS-2019">OSS-2019</a>). 
+My name is Felipe Fronchetti, and this is my GitHub profile! In my account you will find tools and replication packages for the papers I've published over the past few years.
+Each repository is usually named with the initials of a conference and the year of publication, such that it is easy for other researchers to browse my work.
 
-Althought I like to keep my research activities in my own profile, I'm also working on projects hosted on the <a href="https://github.com/vcuse">VCU Software Engineering</a> organization. Feel free to check them out!
+Althought I like to keep my research activities on my own profile, I'm also working on projects hosted on the <a href="https://github.com/vcuse">VCU Software Engineering</a> organization. Feel free to check them out!
 
 <br>
 <br>
@@ -16,10 +15,10 @@ Althought I like to keep my research activities in my own profile, I'm also work
 <img align="right" width="300" height="300" src="https://github.com/fronchetti/fronchetti/blob/main/gofa_comb.png?raw=true">
 
 # Research
-As a researcher in software engineering, I am currently investigating the intersection between collaborative robots and mixed reality technologies, looking for alternatives to improve the way humans program robot controllers.
+I am a Ph.D. Student in Computer Science at Virginia Commonweatlh University. As a researcher, I study the software engineering field, where I investigate alternatives to improve the way humans program robot controllers. Among the technologies that I am studying, there are collaborative robots such as the CRB 15000, and mixed reality headsets such as the Microsoft Hololens 2.
 
-Among the technologies I'm working with, there are ABB robots such as the IRB 14000 and the CRB 15000, and the mixed reality headset, Microsoft Hololens 2.
-
+A great example of a project that I have been working on is <a href="https://github.com/vcuse/duplo">Duplo<a>, a block-based language for two-armed robots that is made for users without experience in programming (Read more about it <a href="https://egr.vcu.edu/news-events/news/03292021-robot-coding-for-everyone.html#">here</a>).
+  
 <br>
 <br>
 
