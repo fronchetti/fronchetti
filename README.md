@@ -7,7 +7,7 @@
 My name is Felipe Fronchetti, and this is my GitHub profile! In my account you will find tools and replication packages for the papers I've published over the past few years.
 Each repository is usually named with the initials of a conference and the year of publication, such that it is easy for other researchers to browse my work.
 
-Althought I like to keep my research activities on my own profile, I'm also working on projects hosted on the <a href="https://github.com/vcuse">VCU Software Engineering</a> organization. Feel free to check them out!
+Althought I like to keep my research activities on my own profile, I'm also working on projects that are hosted on the <a href="https://github.com/vcuse">VCU Software Engineering</a> organization. Feel free to check them out!
 
 <br>
 <br>
