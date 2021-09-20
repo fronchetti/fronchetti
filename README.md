@@ -20,8 +20,9 @@ As a researcher in software engineering, I am currently investigating the inters
 Among the technologies I'm working with, there are ABB robots such as the IRB 14000 and the CRB 15000, and the mixed reality headset, Microsoft Hololens 2.
 
 <br>
+<br>
 
-<img align="left" width="260" height="250" src="https://github.com/fronchetti/fronchetti/blob/main/oss_fel.png?raw=true">
+<img align="left" width="260" height="250" src="https://github.com/fronchetti/fronchetti/blob/main/oss_hup.png?raw=true">
 
 # Open Source 
 Although I've been loving to work with robots and mixed reality, my career as a researcher started with open source communities. For more than six years, I investigated topics such as the entrance of newcomers in open source projects, the differences between employees and volunteers in open source communities and the benefits of social coding platforms like GitHub. Most of these papers are publicly available on the repositories of this profile.
