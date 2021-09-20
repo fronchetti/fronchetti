@@ -17,7 +17,7 @@ Althought I like to keep my research activities on my own profile, I'm always wo
 # Research
 I am a Ph.D. Student in Computer Science at Virginia Commonweatlh University. As a researcher, I study the software engineering field, where I currently investigate alternatives to improve the way humans program robot controllers. Among the technologies that I usually use on my studies are collaborative robots like the <a href="https://new.abb.com/products/robotics/collaborative-robots/crb-15000">CRB 15000</a>, and mixed reality headsets, such as the <a href="https://www.microsoft.com/en-us/hololens">Microsoft Hololens 2</a>. 
 
-A great example of a project that I have been working on is <a href="https://github.com/vcuse/duplo">Duplo<a>, a block-based language for two-armed robots that is made for users without experience in programming (Read more about it <a href="https://egr.vcu.edu/news-events/news/03292021-robot-coding-for-everyone.html#">here</a>).
+A great example of a project that I have been working on this year is <a href="https://github.com/vcuse/duplo">Duplo<a>, a block-based programming language for two-armed robots that is designed for users without experience in programming (Read more about it <a href="https://egr.vcu.edu/news-events/news/03292021-robot-coding-for-everyone.html#">here</a>).
   
 <br>
 <br>
