@@ -15,7 +15,7 @@ Althought I like to keep my research activities on my own profile, I'm always wo
 <img align="right" width="300" height="300" src="https://github.com/fronchetti/fronchetti/blob/main/gofa_comb.png?raw=true">
 
 # Research
-As a Ph.D. Student in Computer Science, my studies lie on software engineering field, where I investigate alternatives to improve the way humans program collaborative robots. Among the technologies that I am using on my studies are robots like <a href="https://new.abb.com/products/robotics/collaborative-robots/crb-15000">GoFa</a> and <a href="https://new.abb.com/products/robotics/collaborative-robots/irb-14000-yumi">YuMi</a>, and mixed reality headsets, such as the <a href="https://www.microsoft.com/en-us/hololens">Microsoft Hololens 2</a>. 
+As a Ph.D. Student in Computer Science, my studies lie in the software engineering field, where I investigate alternatives to improve the way humans program collaborative robots. Among the technologies that I am using on my studies are robots like <a href="https://new.abb.com/products/robotics/collaborative-robots/crb-15000">GoFa</a> and <a href="https://new.abb.com/products/robotics/collaborative-robots/irb-14000-yumi">YuMi</a>, and mixed reality headsets, such as the <a href="https://www.microsoft.com/en-us/hololens">Microsoft Hololens 2</a>. 
 
 A great example of a project that I have been working on this year is <a href="https://github.com/vcuse/duplo">Duplo<a>, a block-based programming language for two-armed robots that is designed for users without experience in programming. Most of my projects with robots are still in progress, but you can read more about them <a href="https://egr.vcu.edu/news-events/news/03292021-robot-coding-for-everyone.html#">here</a>.
   
