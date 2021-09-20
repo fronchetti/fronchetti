@@ -17,7 +17,7 @@ Althought I like to keep my research activities in my own profile, I'm also work
 # Research
 As a software engineering researcher, I investigate the intersection between collaborative robots and mixed reality, looking for better alternatives to how humans program robot controllers.
 
-Among the technologies I'm currently using are ABB robots such as the IRB 14.000 and CRB 15.000, and the Microsoft mixed reality headset, Hololens 2.
+Among the technologies I'm currently working with, there are ABB robots such as the IRB 14000 and the CRB 15000, and the mixed reality headset, Microsoft Hololens 2.
 
 <!--
 **fronchetti/fronchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
