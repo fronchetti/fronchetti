@@ -2,7 +2,7 @@
 
 <img align="left" width="280" height="250" src="https://github.com/fronchetti/fronchetti/blob/main/felipe_comp.png?raw=true">
 
-# Hello!
+# Hello
 
 My name is Felipe Fronchetti, I am a Ph.D. Student in Computer Science, and this is my GitHub profile! In my account you will find tools and replication packages for the papers I've published over the past few years.
 Each of my repositories is usually named with the initials of a conference and a year of publication, so that it's easy for other researchers to explore my work.
