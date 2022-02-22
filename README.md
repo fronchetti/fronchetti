@@ -29,7 +29,6 @@ Although I love to work with robots and mixed reality, my career as a researcher
 
 <br>
 <br>  
-
- I am always open to share my thougths and experiences with others, so please feel free to send me a message by email!
+<br>
   
- Até logo!
+ I am always open to share my thougths and experiences with others, so please feel free to send me a message by email!
