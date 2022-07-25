@@ -29,7 +29,5 @@ Although I love to work with robots and mixed reality, my career as a researcher
 
 <br>
 <br>  
- 
-<img src="https://github.com/fronchetti/fronchetti/blob/main/image_lab.jpg?raw=true">
-  
+   
 **Note:** I am always open to share my thougths and experiences with others, so please feel free to send me a message by email!
