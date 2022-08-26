@@ -26,8 +26,5 @@ A great example of a project that I have been working on this year is <a href="h
 
 # Background
 Although I love to work with robots and mixed reality, my career as a researcher started with open source communities. For more than six years, I investigated topics such as the integration of newcomers in open source projects, the differences between employees and volunteers in open source communities and the benefits of social coding platforms like GitHub. Most of these papers are publicly available on my <a href="https://scholar.google.com/citations?user=-6jIjG8AAAAJ&hl=en">Google Scholar</a> profile.
-
-<br>
-<br>  
    
 **Note:** I am always open to share my thougths and experiences with others, so please feel free to send me a message on  <a href="https://www.linkedin.com/in/fronchat/">LinkedIn</a>!
