@@ -30,4 +30,4 @@ Although I love to work with robots and mixed reality, my career as a researcher
 <br>
 <br>  
    
-**Note:** I am always open to share my thougths and experiences with others, so please feel free to send me a message by email!
+**Note:** I am always open to share my thougths and experiences with others, so please feel free to send me a message on  <a href="https://www.linkedin.com/in/fronchat/">LinkedIn</a>!
