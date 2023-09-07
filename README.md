@@ -27,4 +27,6 @@ A great example of a project that I have been working on is <a href="https://git
 # Background
 Although I love to work with robots, my career as a researcher started with OSS communities. For more than six years, I investigated topics such as the integration of newcomers in open source projects, the differences between employees and volunteers in open source communities and the benefits of social coding platforms like GitHub. Most of these papers are publicly available on my <a href="https://scholar.google.com/citations?user=-6jIjG8AAAAJ&hl=en">Google Scholar</a> profile. If you felt interested in this part of my work, please visit one of my most recent tools on <a href="https://contributing.streamlit.app/">Streamlit</a>, where I show you how I created a supervised NLP model from scratch.
    
-**Note:** I am always open to share my knowledge and experience with other students, so please feel free to send me a message on  <a href="https://www.linkedin.com/in/fronchat/">LinkedIn</a> if you want to start a conversation! Feedback on my projects is also highly appreciated.
+**Note:** I am always open to share my knowledge and experience with other students, so please feel free to send me a message if you want to start a conversation! Feedback on my projects is also highly appreciated.
+
+**Discord:** fronchetti, **Twitter:** fronchat, **E-mail:** fronchettl@vcu.edu
