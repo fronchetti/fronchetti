@@ -2,7 +2,7 @@
 
 Hi!
 
-My name is Felipe Fronchetti, I am a Master in Computer Science from the University of Sao Paulo, and currently a Ph.D. Student in Computer Science at Virginia Commonwealth University. In my account you will find tools and replication packages for the papers I've published over the past few years.
+My name is Felipe Fronchetti, I am a Assistant Professor in Computer Science at Louisiana State University. In my account you will find tools and replication packages for the papers I've published over the past few years.
 Each of my repositories is \*_usually_\* named with the initials of a conference and a year of publication, so that it's easy for other researchers to explore my work.
 
 Althought I like to keep all my research activities on my profile, I'm also working on projects that are hosted on the <a href="https://github.com/vcuse">VCU Software Engineering</a> organization. Feel free to check them out!
