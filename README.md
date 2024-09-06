@@ -14,7 +14,7 @@ Each of my repositories is \*_usually_\* named with the initials of a conference
 # Research
 My research interests lie in Software Engineering, where I investigate alternatives to improve how humans write code for industrial robots. Among the technologies that I am using in my studies are robots like <a href="https://new.abb.com/products/robotics/collaborative-robots/crb-15000">GoFa</a> and <a href="https://new.abb.com/products/robotics/collaborative-robots/irb-14000-yumi">YuMi</a>, and other high-end devices such as the <a href="https://www.microsoft.com/en-us/hololens">Microsoft Hololens</a>. My favorite programming language is Python, but I also use C#, JavaScript, and domain-specific languages (e.g., RAPID) all the time.
 
-A great example of a project that I have been working on is <a href="https://github.com/fronchetti/ICSE-2024">Duplo<a> (<a href="https://youtu.be/MDmuNLtOmC4">New video<a>), a block-based programming language for two-armed collaborative robots, designed to assist users without experience in programming. If you are interested, you can learn more about some of my projects <a href="https://se.lab.vcu.edu/research/robotics/"> on our website</a>.
+A great example of a project that I have been working on is <a href="https://github.com/fronchetti/ICSE-2024">Duplo<a> (<a href="https://youtu.be/MDmuNLtOmC4">New video<a>), a block-based programming language for two-armed collaborative robots, designed to assist users without experience in programming. If you are interested in our work, don't hesitate to send us a message.
   
 <br>
 <br>
