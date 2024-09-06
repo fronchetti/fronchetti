@@ -26,4 +26,4 @@ Although I love to work with robots, my career as a researcher started with OSS 
    
 **Note:** I am always open to sharing my knowledge and experience with others, so please feel free to send me a message if you want to start a conversation! Feedback on my projects is also highly appreciated.
 
-**Discord:** fronchetti, **Twitter:** fronchat, **E-mail:** fronchettl@vcu.edu
+**Discord:** fronchetti, **E-mail:** ffronchetti@lsu.edu
